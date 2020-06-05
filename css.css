@@ -62,7 +62,6 @@ span {
     font-weight: bold;
     background: white;
     text-color: #1485c7;
-    height: 100%;
     padding: 4px;
     transition: all 0.8s;
 }
