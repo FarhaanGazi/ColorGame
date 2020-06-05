@@ -64,6 +64,7 @@ span {
     text-color: #1485c7;
     padding: 4px;
     transition: all 0.8s;
+    line-height: 1.7px;
 }
 
 span:hover {
