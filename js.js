@@ -1,6 +1,6 @@
 let red=100, green=100, blue=100; 
 let options = 9;
-box = document.getElementsByClassName("myCol");
+box = document.getElementsByClassName("box");
 question = document.getElementById("rgb");
 response = document.getElementById("response");
 header = document.getElementById("header");

@@ -35,6 +35,15 @@ h1 {
     transition: background 0.8s;
 }
 
+.box {
+    width: 30%;
+    padding-bottom: 30%;
+    border-radius: 50px;
+    border: black 10px solid;
+    transition: background 0.8s;
+    float: right;
+}
+
 #response {
     padding: 0 15%;
 }
