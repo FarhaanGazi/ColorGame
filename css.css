@@ -66,6 +66,10 @@ span {
     transition: all 0.8s;
 }
 
+.mode {
+    padding: 4px 20px;
+}
+
 span:hover {
     color: white;
     background: #1485c7;
@@ -76,4 +80,7 @@ span:hover {
     background: #1485c7;
 }
 
-
+.footer {
+    position: absolute;
+    bottom: 0px;
+}
