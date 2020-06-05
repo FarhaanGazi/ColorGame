@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+h1 {
+    text-align: center;
+    font-family: "Open Sans";
+    margin: 0px 0px 0px 0px;
+    margin-bottom: 0px;
+}
+
+#background {
+    background-color: black;
+}
+
+#header {
+    background: #1485c7;
+    color: white;
+    padding: 16px;
+    transition: background 0.8s;
+}
+
+#rgb {
+    font-size: 4em;
+}
+
+.strip{
+    color: #1485c7;
+    background: white;
+    text-align: center;
+}
+
+.myCol {
+    padding-bottom: 30%;
+    border-radius: 50px;
+    border: black 10px solid;
+    transition: background 0.8s;
+}
+
+#response {
+    padding: 0 15%;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+button {
+    background: white;
+    text-color: #1485c7;
+    border: 0;
+}
+
+span {
+    font-weight: bold;
+    background: white;
+    text-color: #1485c7;
+    height: 100%;
+    padding: 4px;
+    transition: all 0.8s;
+}
+
+span:hover {
+    color: white;
+    background: #1485c7;
+}
+
+.textInversion {
+    color: white;
+    background: #1485c7;
+}
+
+
