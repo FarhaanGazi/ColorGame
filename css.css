@@ -66,10 +66,6 @@ span {
     transition: all 0.8s;
 }
 
-.mode {
-    padding: 4px 20px;
-}
-
 span:hover {
     color: white;
     background: #1485c7;
@@ -80,7 +76,11 @@ span:hover {
     background: #1485c7;
 }
 
+<<<<<<< HEAD
 .footer {
     position: fixed;
     bottom: 0px;
 }
+=======
+
+>>>>>>> parent of 29af576... added bottom levels menu
